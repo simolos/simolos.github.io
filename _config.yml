@@ -27,7 +27,7 @@ author:
   pronouns: # example: "she/her"
   bio: "Short biography for the left-hand sidebar"
   location: "Switzerland"
-  employer: "École polytechnique fédérale de Lausanne"
+  employer: "EPFL"
   uri: # URL
   email: "simona.losacco@epfl.ch"
 
@@ -37,7 +37,7 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=sxWe43sAAAAJ&hl=de&oi=ao"
   inspire-hep: # URL
   impactstory: # URL
-  orcid: "https://orcid.org/0009-0004-5389-5140"
+  orcid: #"https://orcid.org/0009-0004-5389-5140"
   semantic: # URL
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate: # URL
@@ -62,7 +62,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: "https://www.linkedin.com/in/simona-losacco-041439146/" # Username
+  linkedin: "www.linkedin.com/in/simona-losacco-041439146" # Username
   mastodon: # URL
   medium: # URL
   pinterest: # Username
