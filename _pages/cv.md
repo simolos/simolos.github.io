@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ August 2023 - Present <br>
 **École polytechnique fédérale de Lausanne (Switzerland)** <br>
 PhD candidate in Neuroscience
 
-*My research focuses on decision-making, specifically how individuals trade costs and benefits to form a decision. I characterize these processes through behavioral experiments, computational models of decision-making, pupillometry, and intracranial recordings from the subthalamic nucleus of patients with Parkinson’s disease. I investigate how transcranial temporal interference stimulation (tTIS) targeting the striatum, a key hub involved in effort-reward computations, can modulates decision-making processes.*
+*My research focuses on decision-making, specifically how individuals trade costs and benefits to form a decision. I characterize these processes through behavioral experiments, computational models of decision-making, pupillometry, and intracranial recordings from the subthalamic nucleus of patients with Parkinson’s disease. I investigate how transcranial temporal interference stimulation (tTIS) targeting the striatum, a key hub involved in effort-reward computations, can modulate decision-making processes.*
 
 <br>
 
