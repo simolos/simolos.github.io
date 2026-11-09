@@ -9,56 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+August 2023 - Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**PhD candidate** | École polytechnique fédérale de Lausanne (Switzerland)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+PhD in Neuroscience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<br>
+
+March 2020 - July /2023
+
+**Polytechnic University of Turin**
+
+Master degree: Biomedical Engineering - Biomedical Instrumentation
+
+- Biomedical signal and image processing, neuroengineering, artificial intelligence - Machine Learning and Deep Learning
+- Biomedical devices, electrical measurements
+- 3D digitalization and modelling systems
+
+**Master thesis project**
+
+Hosted by the Laboratory for Soft Bioelectronic Interfaces (LSBI) at EPFL, supervised by Prof. Stéphanie Lacour.
+
+My project aimed at characterizing and modulating spreading depolarizations (SDs), propagating waves of brain tissue depolarization, triggered by the accumulation of intracellular potassium. SDs occurring after traumatic brain injury (TBI) have been shown to be responsible for worse neurological outcomes.
+
+- Design of experimental protocols
+- In-vivo work - SDs induced by KCl application in rats
+- Intracortical recordings and closed-loop electrical stimulation using soft neural interfaces
+- Data analysis
+
+<br>
+
+Sept 2016 - March 2020
+
+**Polytechnic University of Turin**
+
+Bachelor's degree: Biomedical Engineering
+
+
+## Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
