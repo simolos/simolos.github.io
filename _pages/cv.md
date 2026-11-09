@@ -15,24 +15,24 @@ August 2023 - Present <br>
 **École polytechnique fédérale de Lausanne (Switzerland)** <br>
 PhD candidate in Neuroscience
 
+*My research focuses on decision-making, specifically the process of trading costs and benefits to form a decision. I investigate it through through behavioral experiments, computational models of decision-making, and intracranial recordings from the subthalamic nucleus of patients with Parkinson’s disease.*
+
 <br>
 
 March 2020 - July 2023 <br>
 **Polytechnic University of Turin (Italy)** <br>
-Master degree: Biomedical Engineering - Biomedical Instrumentation
-
+Master degree: Biomedical Engineering - Biomedical Instrumentation <br>
 - Biomedical signal and image processing, neuroengineering, artificial intelligence - Machine Learning and Deep Learning
 - Biomedical devices, electrical measurements
 - 3D digitalization and modelling systems
 
-***Master thesis project***
-Hosted by the Laboratory for Soft Bioelectronic Interfaces (LSBI) at EPFL, supervised by Prof. Stéphanie Lacour.
-My project aimed at characterizing and modulating spreading depolarizations (SDs), propagating waves of brain tissue depolarization, triggered by the accumulation of intracellular potassium. SDs occurring after traumatic brain injury (TBI) have been shown to be responsible for worse neurological outcomes.
-
+***Master thesis project*** <br> 
+Hosted by the Laboratory for Soft Bioelectronic Interfaces (LSBI) at EPFL, supervised by Prof. Stéphanie Lacour. <br> 
+*My project aimed at characterizing and modulating spreading depolarizations (SDs), propagating waves of brain tissue depolarization, triggered by the accumulation of intracellular potassium. SDs occurring after traumatic brain injury (TBI) have been shown to be responsible for worse neurological outcomes. <br> 
 - Design of experimental protocols
 - In-vivo work - SDs induced by KCl application in rats
 - Intracortical recordings and closed-loop electrical stimulation using soft neural interfaces
-- Data analysis
+- Data analysis*
 
 <br>
 
