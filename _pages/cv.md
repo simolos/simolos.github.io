@@ -12,13 +12,13 @@ redirect_from:
 # Education
 
 August 2023 - Present <br>
-**École polytechnique fédérale de Lausanne (Switzerland)** 
+**École polytechnique fédérale de Lausanne (Switzerland)** <br>
 PhD candidate in Neuroscience
 
 <br>
 
 March 2020 - July 2023 <br>
-**Polytechnic University of Turin (Italy)**
+**Polytechnic University of Turin (Italy)** <br>
 Master degree: Biomedical Engineering - Biomedical Instrumentation
 
 - Biomedical signal and image processing, neuroengineering, artificial intelligence - Machine Learning and Deep Learning
@@ -36,10 +36,8 @@ My project aimed at characterizing and modulating spreading depolarizations (SDs
 
 <br>
 
-Sept 2016 - March 2020. 
-
-**Polytechnic University of Turin**
-
+Sept 2016 - March 2020 <br>
+**Polytechnic University of Turin** <br>
 Bachelor's degree: Biomedical Engineering
 
 
