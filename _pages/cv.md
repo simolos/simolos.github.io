@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+# Education
 
 August 2023 - Present
 
-**PhD candidate** | École polytechnique fédérale de Lausanne (Switzerland)
+**École polytechnique fédérale de Lausanne (Switzerland)** 
 
-PhD in Neuroscience
+PhD candidate in Neuroscience
 
 <br>
 
-March 2020 - July /2023
+March 2020 - July 2023
 
-**Polytechnic University of Turin**
+**Polytechnic University of Turin (Italy)**
 
 Master degree: Biomedical Engineering - Biomedical Instrumentation
 
@@ -29,7 +29,7 @@ Master degree: Biomedical Engineering - Biomedical Instrumentation
 - Biomedical devices, electrical measurements
 - 3D digitalization and modelling systems
 
-**Master thesis project**
+***Master thesis project***
 
 Hosted by the Laboratory for Soft Bioelectronic Interfaces (LSBI) at EPFL, supervised by Prof. Stéphanie Lacour.
 
@@ -49,7 +49,7 @@ Sept 2016 - March 2020
 Bachelor's degree: Biomedical Engineering
 
 
-## Publications
+# Publications
 
 <ul>
 {% for post in site.publications reversed %}
