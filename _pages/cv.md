@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
 
 August 2023 - Present <br>
 **École polytechnique fédérale de Lausanne (Switzerland)** <br>
 PhD candidate in Neuroscience
 
-*My research focuses on decision-making, specifically how individuals trade costs and benefits to form a decision. I investigate these processes through behavioral experiments, computational models of decision-making, pupillometry, and intracranial recordings from the subthalamic nucleus of patients with Parkinson’s disease.*
+*My research focuses on decision-making, specifically how individuals trade costs and benefits to form a decision. I characterize these processes through behavioral experiments, computational models of decision-making, pupillometry, and intracranial recordings from the subthalamic nucleus of patients with Parkinson’s disease. I investigate how transcranial temporal interference stimulation (tTIS) targeting the striatum, a key hub involved in effort-reward computations, can modulates decision-making processes.*
 
 <br>
 
@@ -28,11 +27,11 @@ Master degree: Biomedical Engineering - Biomedical Instrumentation <br>
 
 ***Master thesis project*** <br> 
 Hosted by the Laboratory for Soft Bioelectronic Interfaces (LSBI) at EPFL, supervised by Prof. Stéphanie Lacour. <br> 
-*My project aimed at characterizing and modulating spreading depolarizations (SDs), propagating waves of brain tissue depolarization, triggered by the accumulation of intracellular potassium. SDs occurring after traumatic brain injury (TBI) have been shown to be responsible for worse neurological outcomes. <br> 
+*My project aimed at characterizing and modulating spreading depolarizations (SDs), propagating waves of brain tissue depolarization, triggered by the accumulation of intracellular potassium. SDs occurring after traumatic brain injury (TBI) have been shown to be responsible for worse neurological outcomes.* <br> 
 - Design of experimental protocols
 - In-vivo work - SDs induced by KCl application in rats
 - Intracortical recordings and closed-loop electrical stimulation using soft neural interfaces
-- Data analysis*
+- Data analysis
 
 <br>
 
