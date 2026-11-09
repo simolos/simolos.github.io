@@ -12,17 +12,13 @@ redirect_from:
 # Education
 
 August 2023 - Present
-
 **École polytechnique fédérale de Lausanne (Switzerland)** 
-
 PhD candidate in Neuroscience
 
 <br>
 
 March 2020 - July 2023
-
 **Polytechnic University of Turin (Italy)**
-
 Master degree: Biomedical Engineering - Biomedical Instrumentation
 
 - Biomedical signal and image processing, neuroengineering, artificial intelligence - Machine Learning and Deep Learning
@@ -30,9 +26,7 @@ Master degree: Biomedical Engineering - Biomedical Instrumentation
 - 3D digitalization and modelling systems
 
 ***Master thesis project***
-
 Hosted by the Laboratory for Soft Bioelectronic Interfaces (LSBI) at EPFL, supervised by Prof. Stéphanie Lacour.
-
 My project aimed at characterizing and modulating spreading depolarizations (SDs), propagating waves of brain tissue depolarization, triggered by the accumulation of intracellular potassium. SDs occurring after traumatic brain injury (TBI) have been shown to be responsible for worse neurological outcomes.
 
 - Design of experimental protocols
