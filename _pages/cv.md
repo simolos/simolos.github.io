@@ -11,13 +11,13 @@ redirect_from:
 
 # Education
 
-August 2023 - Present. 
+August 2023 - Present <br>
 **École polytechnique fédérale de Lausanne (Switzerland)** 
 PhD candidate in Neuroscience
 
 <br>
 
-March 2020 - July 2023. 
+March 2020 - July 2023 <br>
 **Polytechnic University of Turin (Italy)**
 Master degree: Biomedical Engineering - Biomedical Instrumentation
 
