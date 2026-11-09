@@ -15,7 +15,7 @@ August 2023 - Present <br>
 **École polytechnique fédérale de Lausanne (Switzerland)** <br>
 PhD candidate in Neuroscience
 
-*My research focuses on decision-making, specifically the process of trading costs and benefits to form a decision. I investigate it through through behavioral experiments, computational models of decision-making, and intracranial recordings from the subthalamic nucleus of patients with Parkinson’s disease.*
+*My research focuses on decision-making, specifically how individuals trade costs and benefits to form a decision. I investigate these processes through behavioral experiments, computational models of decision-making, pupillometry, and intracranial recordings from the subthalamic nucleus of patients with Parkinson’s disease.*
 
 <br>
 
