@@ -40,10 +40,10 @@ Sept 2016 - March 2020 <br>
 Bachelor's degree: Biomedical Engineering
 
 
-# Publications
+<!-- # Publications -->
 
-<ul>
+<!-- <ul>
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
-</ul>
+</ul> -->
